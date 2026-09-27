@@ -146,7 +146,7 @@ and press Enter.
 Type:
 
 ```text
-python main.py
+python src/main.py
 ```
 
 The main menu should appear.
