@@ -287,10 +287,8 @@ The project is intentionally kept simple so that the Python concepts learned in 
 
 ## Author
 
-**Name:** __________________________
+**Name:** Deep Nareshkumar Lad
 
-**Registration Number:** __________________________
+**Registration Number:** 26BAI10605
 
 **Course:** CSE1021 - Introduction to Problem Solving and Programming
-
-**Department/School:** __________________________
